@@ -1,11 +1,11 @@
 public class numberElevator {
     public static Integer power(Integer number, Integer x) {
-        if (x == 0){
-            return 1;
+        if (number == null || x == null || x < 0) {
+            return null;
         }
-        int n = number;
-        for (int i = 1; i < x; i++){
-            n = number * n;
+        int n = 1;
+        for (int i = 0; i < x; i++) {
+            n *= number;
         }
         return n;
     }
