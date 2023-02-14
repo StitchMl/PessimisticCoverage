@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PessimisticCoverage/OptimisticCoverage.iml" filepath="$PROJECT_DIR$/PessimisticCoverage/OptimisticCoverage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/PessimisticCoverage.iml" filepath="$PROJECT_DIR$/.idea/PessimisticCoverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PessimisticCoverage/PessimisticCoverage.iml" filepath="$PROJECT_DIR$/PessimisticCoverage/PessimisticCoverage.iml" />
     </modules>
   </component>
 </project>
